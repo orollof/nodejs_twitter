@@ -1,0 +1,17 @@
+{
+  "name": "rebelbird",
+  "version": "1.0.0",
+  "description": "search twitter tags",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Oskar Rollof",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.7.1",
+    "express": "^4.13.3",
+    "twitter": "^1.2.5",
+    "route-cache" : "^0.2.1"
+  }
+}
