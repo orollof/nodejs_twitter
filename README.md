@@ -1,4 +1,4 @@
-# Rebel & Bird Twitter
+# NodeJS Twitter
 
 #### Add your twitter api keys to config.js
 
